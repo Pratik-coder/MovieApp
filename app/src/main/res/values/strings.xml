@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DevRevAssignment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="strPopular">Popular Movie</string>
+    <string name="strUpComing">Upcoming Movie</string>
+    <string name="strNoRating">No Rating</string>
+    <string name="strNoReleaseDate">No Release Date</string>
+    <string name="strMovieRowDescPattern" translatable="false">%s\u0020\u0020&#8226;\u0020\u0020%s</string>
+    <string name="strErrorMesssagePattern">Error: %s</string>
+    <string name="strRunTimeSinglePattern">%s hour and %s minutes</string>
+    <string name="strRunTimePatternMultiple">%s hours and %s minutes</string>
+    <string name="strNoData">No Data</string>
+    <string name="strVisitWebsiteUrl" translatable="false"><![CDATA[<a href="%s">%s</a>]]></string>
+    <string name="strVisitWebsite">Visit website</string>
+    <string name="strRevenuePattern" translatable="false">%s mill.</string>
+    <string name="strCast">CAST</string>
+</resources>
